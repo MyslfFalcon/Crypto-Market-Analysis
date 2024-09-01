@@ -1,28 +1,30 @@
-# Cryptocurrency Market Analysis with Machine Learning Methods
 
-This repository explores various machine learning models for analysis cryptocurrency market, the tasks such as predicting coin price, grouping similar behavior coins, analysis social sentiment, etc.
+# Cryptocurrency Market Analysis with Deep Learning Methods - TBD
 
-## Project Overview
-
-* The project utilizes top cryptocurrencies historical data to train and test the models.
-* The code is written in Python (specify libraries used like pandas, scikit-learn) in Jupyter Notebook.
-* Empoly **Supervised learning** models (e.g., Linear Regression, Support Vector Machines) to predict Bitcoin prices.
-* Leverage **unsupervised learning** methods (e.g., K-Means clustering) to identify patterns or insights from the trading data.
+Analyzing Cryptocurrency Markets Using Machine Learning Techniques
+This collection of code looks at different machine learning models to study cryptocurrency markets. It tackles jobs like guessing coin prices, putting coins with similar patterns into groups, and checking how people feel about crypto on social media.
+Project Overview
+This project uses historical data from leading cryptocurrencies to train and test models.
+The code is in Python (using libraries like pandas and scikit-learn) in Jupyter Notebook.
+It uses supervised learning models (such as Linear Regression and Support Vector Machines) to predict Bitcoin prices.
+It applies unsupervised learning methods (like K-Means clustering) to spot patterns or gain insights from the trading data.
 
 ## Implementation
+We have completed:
+- Predicting Bitcoin Price with Supervised Learning Methods (https://github.com/MyslfFalcon/Crypto-Market-Analysis/tree/main/Supervised%20Learning)
+- Cryptocurrency Market Analysis with Unsupervised Learning Methods (https://github.com/MyslfFalcon/Crypto-Market-Analysis/tree/main/Unsupervised%20Learning)
 
-- [Predicting Bitcoin Price with Supervised Learning Methods](https://github.com/zac4j/crypto-market-analysis/blob/main/supervised%20learning/btc_price_prediction.ipynb) - Done
-- [Cryptocurrency Market Analysis with Unsupervised Learning Methods](https://github.com/zac4j/crypto-market-analysis/blob/main/unsupervised%20learning/crypto-market-analysis-usl-methods.ipynb) - Done
-- Cryptocurrency Market Analysis with Deep Learning Methods - TBD
+## We plan to do:
+- Cryptocurrency Market Analysis with Deep Learning Methods
 
 ## Future Work
+We aim to:
+- Look into deep learning structures (like LSTMs) for time series forecasting
+- Compare how different models perform
+- Add more features that might affect price (such as social sentiment)
 
-* Exploration of **deep learning** architectures (e.g., LSTMs) for time series forecasting.
-* Performance comparison of different models.
-* Integration of additional features that might influence price (e.g., social sentiment).
+## Disclaimer
+Analyzing the cryptocurrency market is tricky, and we created these models just to learn. Don't take this analysis as financial advice.
 
-### Disclaimer
-
-Cryptocurrency Market Analysis is a complex task, and the models implemented here are for my educational purposes only. The analysis should not be considered financial advice.
 
 
