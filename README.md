@@ -1,5 +1,5 @@
 
-# Cryptocurrency Market Analysis with Deep Learning Methods - TBD
+# Cryptocurrency Market Analysis with Machine Learning Methods - TBD
 
 Analyzing Cryptocurrency Markets Using Machine Learning Techniques
 This collection of code looks at different machine learning models to study cryptocurrency markets. It tackles jobs like guessing coin prices, putting coins with similar patterns into groups, and checking how people feel about crypto on social media.
